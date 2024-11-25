@@ -25,13 +25,13 @@
 
 This project focuses on creating a user-friendly interface for SeaBank Indonesia to enable users to manage their investments effectively. By leveraging the UX design process, the team addressed challenges such as users' limited knowledge of investments, diverse risk profiles, and difficulty navigating investment options. The project used quantitative and qualitative research to understand user needs and preferences, culminating in a design that simplifies investment decisions and educates users.
 
-Keypoint:
-* Quantitative research identified market trends and competitor insights, while qualitative research focused on user pain points and personas to design tailored solutions.
-* The interface includes features like risk assessment tools, portfolio management, learning resources, and investment recommendations to guide users based on their profiles.
-* The project aims to empower users with the knowledge and tools necessary for effective wealth management while simplifying the investment process through a cohesive and accessible platform.
+<Div>
+  <p align="left">Keypoint:</p>
+</Div>
 
+[Download Portfolio](https://github.com/MuhammadYusufNugroho/User-Interface-User-Experience-at-Seabank-2022-/blob/main/IDC2022/IDC2022_Eular%20Team.pdf)
 
-
+[Download Eular Responses](https://github.com/MuhammadYusufNugroho/User-Interface-User-Experience-at-Seabank-2022-/blob/main/IDC2022/Euler_Responses.xlsx)  
 
 <!-- CONTACT -->
 ## Contact
@@ -40,4 +40,3 @@ Your Name - [@Muhammad Yusuf Nugroho](https://www.linkedin.com/in/muhammad-yusuf
 
 Project Link: [https://github.com/MuhammadYusufNugroho/User-Interface-User-Experience-at-Seabank-2022-/](github.com/MuhammadYusufNugroho/User-Interface-User-Experience-at-Seabank-2022-/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
